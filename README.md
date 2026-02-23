@@ -59,6 +59,21 @@ End-to-end AI platform leveraging agentic workflows to navigate DeFi ecosystems 
 - Designed with safety-first execution controls
 
 ---
+## 🔧 Open-Source Projects & Templates
+
+### Hybrid RAG Template
+A modular, production-oriented Hybrid Retrieval-Augmented Generation (RAG) system designed for real-world deployment.
+
+**Key Features**
+- FastAPI backend + Qdrant vector store + Redis semantic cache
+- OpenAI embeddings & LLM + cross-encoder reranker
+- Dockerized infra + offline evaluation framework (LLM-as-judge benchmark)
+- Hybrid retrieval, cost/latency optimization, and strict grounding checks
+
+Repo: [github.com/rayxcast/hybrid-rag-template](https://github.com/rayxcast/hybrid-rag-template)  
+(Great starter for building scalable RAG pipelines.)
+
+---
 
 ## 🏗️ Engineering Philosophy
 
