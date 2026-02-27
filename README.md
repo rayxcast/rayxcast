@@ -1,44 +1,45 @@
 # Hi there 👋 
 
-### AI Engineer (Applied AI) | Production LLM Systems | Agents, RAG & AI Infrastructure
+### AI Engineer | Architecting Scalable LLM & Agent Systems | Production AI Infrastructure
 
-I build production-grade LLM systems that turn complex workflows into reliable, scalable AI-powered infrastructure.
+I design and build production-grade AI systems that transform complex workflows into reliable, scalable AI infrastructure.
+
+My focus: agentic systems, retrieval architectures, and cost-efficient AI deployments that operate reliably in real-world environments.
 
 ---
 
-## 🚀 What I Specialize In
+## 🚀 Core Expertise
 
-- Multi-agent orchestration systems
-- Retrieval-Augmented Generation (RAG) at scale
-- Tool/function calling ecosystems
-- Cost-aware model routing
-- Token & latency optimization
-- LLM observability & evaluation frameworks
-- Secure AI system design
+-  Multi-agent orchestration & tool-calling systems
+-  Hybrid Retrieval-Augmented Generation (RAG) architectures
+-  Cost-aware model routing & fallback strategies
+-  Token, latency & inference optimization
+-  LLM observability, evaluation & guardrails
+-  Secure-by-default AI system design
+-  Production deployment & cloud-native scaling
 
 ---
 
 ## 🧠 Technical Stack
 
 ### AI Systems
-- LLM orchestration layers
-- Multi-agent workflows
-- RAG pipelines (hybrid search + vector DBs)
-- MCP servers
-- Guardrails & evaluation pipelines
-- Model routing & fallback systems
+- LLM / GenAI orchestration layers
+- Agent workflows & execution graphs
+- Hybrid RAG pipelines (BM25 + dense retrieval + reranking)
+- Vector databases & semantic caching
+- Guardrails, grounding checks & evaluation pipelines
+- Model routing & reliability engineering
 
 ### Backend & Infra
 - FastAPI, Node.js
 - PostgreSQL, MongoDB, Redis
-- Vector databases
 - AWS (ECS, Lambda, S3)
-- Docker & CI/CD
-- Logging, tracing & observability
+- Docker, CI/CD pipelines
+- Logging, tracing & distributed observability
 
 ### Frontend
-- React, Next.js
-- Tailwind CSS
+-  React, Next.js
+-  Tailwind CSS
 
 ---
 
@@ -47,41 +48,43 @@ I build production-grade LLM systems that turn complex workflows into reliable, 
 End-to-end AI platform leveraging agentic workflows to navigate DeFi ecosystems on Solana.
 
 ### Architecture Highlights
-- Multi-agent research + execution system
-- On-chain data ingestion & validation layer
-- Cost-aware LLM routing
-- Tool-calling execution pipelines
-- Secure inference architecture
+-  Multi-agent research + execution framework
+-  On-chain ingestion & validation layer
+-  Cost-aware LLM routing
+-  Tool-calling execution pipelines
+-  Secure inference boundaries
 
 ### Impact
-- Automates research, analysis & on-chain execution
-- Reduces user friction in complex DeFi workflows
-- Designed with safety-first execution controls
+-  Automates research, analysis & on-chain execution
+-  Reduces friction in complex DeFi workflows
+-  Built with safety-first execution controls
 
 ---
 ## 🔧 Open-Source Projects & Templates
 
 ### Hybrid RAG Template
-A modular, production-oriented Hybrid Retrieval-Augmented Generation (RAG) system designed for real-world deployment.
+A modular, production-oriented hybrid RAG system built for real-world deployment.
 
 **Key Features**
-- FastAPI backend + Qdrant vector store + Redis semantic cache
-- OpenAI embeddings & LLM + cross-encoder reranker
-- Dockerized infra + offline evaluation framework (LLM-as-judge benchmark)
-- Hybrid retrieval, cost/latency optimization, and strict grounding checks
+-  FastAPI backend + Qdrant vector store + Redis semantic cache
+-  OpenAI embeddings + LLM + cross-encoder reranker
+-  Dockerized infrastructure
+-  Offline evaluation framework (LLM-as-judge benchmarking)
+-  Hybrid retrieval with cost & latency optimization
+-  Strict grounding & hallucination mitigation
 
-Repo: [github.com/rayxcast/hybrid-rag-template](https://github.com/rayxcast/hybrid-rag-template)  
-(Great starter for building scalable RAG pipelines.)
+Repository:
+[github.com/rayxcast/hybrid-rag-template](https://github.com/rayxcast/hybrid-rag-template)  
 
 ---
 
 ## 🏗️ Engineering Philosophy
 
-- Production-ready > demo-ready
-- Observability first
-- Reliability over hype
-- Cost-aware AI systems
-- Secure-by-default architecture
+-  Production-ready > demo-ready
+-  Observability is non-negotiable
+-  Reliability over hype
+-  Cost-aware system design
+-  Secure-by-default architecture
 
 
 ---
