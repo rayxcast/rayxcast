@@ -1,90 +1,97 @@
-# Hi there 👋 
+# Hi there 👋
 
-### AI Engineer | Architecting Scalable LLM & Agent Systems | Production AI Infrastructure
+## Software Engineer | Applied AI & Backend Systems | Production Infrastructure
 
-I design and build production-grade AI systems that transform complex workflows into reliable, scalable AI infrastructure.
+I design and build production-grade software systems that integrate AI capabilities into reliable, observable, and cost-efficient architectures.
 
-My focus: agentic systems, retrieval architectures, and cost-efficient AI deployments that operate reliably in real-world environments.
+My focus is not just on model integration, but on building scalable backend systems that operate predictably under real-world load.
 
 ---
 
-## 🚀 Core Expertise
+## 🚀 What I Work On
 
--  Multi-agent orchestration & tool-calling systems
--  Hybrid Retrieval-Augmented Generation (RAG) architectures
--  Cost-aware model routing & fallback strategies
--  Token, latency & inference optimization
--  LLM observability, evaluation & guardrails
--  Secure-by-default AI system design
--  Production deployment & cloud-native scaling
+- Applied AI systems (LLMs, agent workflows, RAG)
+- Scalable backend APIs and async systems
+- Distributed job processing & fault tolerance
+- Cost-aware model routing & inference optimization
+- Observability, evaluation & performance benchmarking
+- Secure-by-default architecture
 
 ---
 
 ## 🧠 Technical Stack
 
-### AI Systems
-- LLM / GenAI orchestration layers
-- Agent workflows & execution graphs
-- Hybrid RAG pipelines (BM25 + dense retrieval + reranking)
-- Vector databases & semantic caching
-- Guardrails, grounding checks & evaluation pipelines
-- Model routing & reliability engineering
-
-### Backend & Infra
-- FastAPI, Node.js
+### Backend & Infrastructure
+- Python (FastAPI), Node.js
+- Async systems & background workers
 - PostgreSQL, MongoDB, Redis
 - AWS (ECS, Lambda, S3)
-- Docker, CI/CD pipelines
-- Logging, tracing & distributed observability
+- Docker & containerized services
+- CI/CD pipelines
+- Structured logging, tracing & metrics
 
-### Frontend
--  React, Next.js
--  Tailwind CSS
+### Applied AI Systems
+- LLM orchestration & model routing
+- Hybrid RAG pipelines (BM25 + dense retrieval + reranking)
+- Vector databases & semantic caching
+- Offline evaluation frameworks
+- Guardrails & grounding validation
+- Token & latency optimization strategies
+
+### Frontend (When Needed)
+- React, Next.js
+- Tailwind CSS
 
 ---
 
-## 🐬 Featured Project — [Dolphyn AI](https://dolphyn.ai)
+## 🐬 Featured Project — Dolphyn AI
 
 End-to-end AI platform leveraging agentic workflows to navigate DeFi ecosystems on Solana.
 
 ### Architecture Highlights
--  Multi-agent research + execution framework
--  On-chain ingestion & validation layer
--  Cost-aware LLM routing
--  Tool-calling execution pipelines
--  Secure inference boundaries
+- Multi-agent research & execution framework
+- On-chain ingestion & validation layer
+- Deterministic execution pipelines
+- Cost-aware model routing
+- Secure inference boundaries
+- Production deployment with observability controls
 
-### Impact
--  Automates research, analysis & on-chain execution
--  Reduces friction in complex DeFi workflows
--  Built with safety-first execution controls
+### Engineering Focus
+- Reliability under real-world usage
+- Latency optimization
+- Failure containment
+- Safe execution constraints
 
 ---
-## 🔧 Open-Source Projects & Templates
 
-### Hybrid RAG Template
-A modular, production-oriented hybrid RAG system built for real-world deployment.
+## 🔧 Open-Source Project — Hybrid RAG Template
 
-**Key Features**
--  FastAPI backend + Qdrant vector store + Redis semantic cache
--  OpenAI embeddings + LLM + cross-encoder reranker
--  Dockerized infrastructure
--  Offline evaluation framework (LLM-as-judge benchmarking)
--  Hybrid retrieval with cost & latency optimization
--  Strict grounding & hallucination mitigation
+A modular, production-oriented hybrid RAG system designed for real-world deployment.
+
+### Key Capabilities
+- FastAPI backend
+- Qdrant vector store
+- Redis semantic caching layer
+- LiteLLM model abstraction
+- Cross-encoder reranker (ONNX)
+- Dockerized multi-service setup
+- Offline evaluation framework
+- Hybrid retrieval with latency & cost optimization
+- Strict grounding & hallucination mitigation
 
 Repository:
-[github.com/rayxcast/hybrid-rag-template](https://github.com/rayxcast/hybrid-rag-template)  
+https://github.com/rayxcast/hybrid-rag-template
 
 ---
 
 ## 🏗️ Engineering Philosophy
 
--  Production-ready > demo-ready
--  Observability is non-negotiable
--  Reliability over hype
--  Cost-aware system design
--  Secure-by-default architecture
+- Production-ready > demo-ready
+- Observability is non-negotiable
+- Reliability over hype
+- Measure before optimizing
+- Cost is a system constraint
+- Design for failure, not perfection
 
 
 ---
