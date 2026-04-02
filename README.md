@@ -2,7 +2,7 @@
 
 ## Software Engineer | Applied AI & Backend Systems | Production Infrastructure
 
-I design and build production-grade software systems that integrate AI capabilities into reliable, observable, and cost-efficient architectures.
+I design and build production-grade software systems that integrate AI/ML capabilities into reliable, observable, and cost-efficient architectures.
 
 My focus is not just on model integration, but on building scalable backend systems that operate predictably under real-world load.
 
@@ -25,14 +25,14 @@ My focus is not just on model integration, but on building scalable backend syst
 - Python (FastAPI), Node.js
 - Async systems & background workers
 - PostgreSQL, MongoDB, Redis
-- AWS (ECS, Lambda, S3)
+- AWS, GCP
 - Docker & containerized services
 - CI/CD pipelines
 - Structured logging, tracing & metrics
 
 ### Applied AI Systems
 - LLM orchestration & model routing
-- Hybrid RAG pipelines (BM25 + dense retrieval + reranking)
+- Hybrid RAG pipelines (BM25/Splade + dense retrieval + reranking)
 - Vector databases & semantic caching
 - Offline evaluation frameworks
 - Guardrails & grounding validation
