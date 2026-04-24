@@ -2,9 +2,7 @@
 
 ## Software Engineer | Applied AI & Backend Systems | Production Infrastructure
 
-I design and build production-grade software systems that integrate AI/ML capabilities into reliable, observable, and cost-efficient architectures.
-
-My focus is not just on model integration, but on building scalable backend systems that operate predictably under real-world load.
+I design and build production-grade end-to-end systems that integrate AI/ML capabilities into reliable, observable, and cost-efficient architectures. I focus on building scalable systems that operate predictably under real-world load.
 
 ---
 
@@ -12,8 +10,8 @@ My focus is not just on model integration, but on building scalable backend syst
 
 - Applied AI systems (LLMs, agent workflows, RAG)
 - Scalable backend APIs and async systems
-- Distributed job processing & fault tolerance
-- Cost-aware model routing & inference optimization
+- Distributed systems & fault tolerance
+- Cost & latency optimization
 - Observability, evaluation & performance benchmarking
 - Secure-by-default architecture
 
@@ -22,7 +20,8 @@ My focus is not just on model integration, but on building scalable backend syst
 ## 🧠 Technical Stack
 
 ### Backend & Infrastructure
-- Python (FastAPI), Node.js
+- Python, Node.js, Rust
+- FastAPI, Express.js
 - Async systems & background workers
 - PostgreSQL, MongoDB, Redis
 - AWS, GCP
@@ -38,61 +37,9 @@ My focus is not just on model integration, but on building scalable backend syst
 - Guardrails & grounding validation
 - Token & latency optimization strategies
 
-### Frontend (When Needed)
-- React, Next.js
-- Tailwind CSS
-
----
-
-## 🐬 Featured Project — Dolphyn AI
-
-End-to-end AI platform leveraging agentic workflows to navigate DeFi ecosystems on Solana.
-
-### Architecture Highlights
-- Multi-agent research & execution framework
-- On-chain ingestion & validation layer
-- Deterministic execution pipelines
-- Cost-aware model routing
-- Secure inference boundaries
-- Production deployment with observability controls
-
-### Engineering Focus
-- Reliability under real-world usage
-- Latency optimization
-- Failure containment
-- Safe execution constraints
-
----
-
-## 🔧 Open-Source Project — Hybrid RAG Template
-
-A modular, production-oriented hybrid RAG system designed for real-world deployment.
-
-### Key Capabilities
-- FastAPI backend
-- Qdrant vector store
-- Redis semantic caching layer
-- LiteLLM model abstraction
-- Cross-encoder reranker (ONNX)
-- Dockerized multi-service setup
-- Offline evaluation framework
-- Hybrid retrieval with latency & cost optimization
-- Strict grounding & hallucination mitigation
-
-Repository:
-https://github.com/rayxcast/hybrid-rag-template
-
----
-
-## 🏗️ Engineering Philosophy
-
-- Production-ready > demo-ready
-- Observability is non-negotiable
-- Reliability over hype
-- Measure before optimizing
-- Cost is a system constraint
-- Design for failure, not perfection
-
+### Frontend
+- React, Next.js, Tailwind CSS
+- Svelte
 
 ---
 
